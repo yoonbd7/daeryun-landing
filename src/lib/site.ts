@@ -1,9 +1,7 @@
-// 사이트 전역 URL·업체 정보 — layout / robots / sitemap / 구조화 데이터가 공유한다.
-// 커스텀 도메인 확정 시 SITE_URL 한 줄만 교체하면 전 파일에 반영된다.
 
 export const SITE_URL = "https://www.drmfix.com";
 
-/** 구조화 데이터(JSON-LD)용 업체 정보 */
+
 export const BUSINESS = {
   name: "대륜 1급 공업사",
   description:

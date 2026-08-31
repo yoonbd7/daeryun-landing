@@ -15,7 +15,7 @@ export const metadata: Metadata = {
     description: SITE_DESC,
     type: "website",
     locale: "ko_KR",
-    images: [{ url: "/images/section-01.webp", width: 1000, height: 1280 }],
+    images: [{ url: "/images/section-01.png", width: 1000, height: 1280 }],
   },
   robots: { index: true, follow: true },
 };

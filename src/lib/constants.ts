@@ -14,8 +14,8 @@ export type SectionImage = {
 
 export const SECTIONS: SectionImage[] = [
   {
-    src: "/images/section-01.webp",
-    alt: "사고나셨나요? 걱정마세요! 긁힌 차, 찌그러진 차, 부서진 차 수리비 0원! 자기부담금 저희가 내드립니다.",
+    src: "/images/section-01.png",
+    alt: "주차 대신 수리를 맡기세요! 주차비는 아끼고, 차량관리는 확실하게!",
   },
   {
     src: "/images/section-02.webp",
@@ -31,7 +31,7 @@ export const SECTIONS: SectionImage[] = [
     anchor: true,
   },
   {
-    src: "/images/section-05.webp",
+    src: "/images/section-05.png",
     alt: "보험 담당자 말만 믿고 수리 보냈더니… 문제 제기",
   },
   {
@@ -51,8 +51,8 @@ export const SECTIONS: SectionImage[] = [
     alt: "카카오톡 후기 상세 — 실제 고객 대화 캡처",
   },
   {
-    src: "/images/section-10.webp",
-    alt: "편리한 탁송 지원 — 서울·경기·인천 무료 탁송",
+    src: "/images/section-10.png",
+    alt: "편리한 차량픽업 및 인도. 공항 주차비 아끼고 차량은 안전하게 관리하세요",
   },
   {
     src: "/images/section-11.webp",

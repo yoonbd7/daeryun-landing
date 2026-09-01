@@ -55,7 +55,7 @@ export const SECTIONS: SectionImage[] = [
     alt: "편리한 차량픽업 및 인도. 공항 주차비 아끼고 차량은 안전하게 관리하세요",
   },
   {
-    src: "/images/section-11.webp",
+    src: "/images/section-11.png",
     alt: "수리비 0원! 지금 바로 신청하세요 — 신청 자격 3가지",
     anchor: true,
   },
